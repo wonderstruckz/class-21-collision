@@ -1,2 +1,2 @@
-# class-21-collision
-passing arguments and creating library
+# p5.play-boilerplate
+Boiler plate for p5.play
